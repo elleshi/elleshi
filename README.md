@@ -50,7 +50,8 @@
 <br>
   
 * [Итоговый проект по автоматизации тестирования на Java с использованием Selenium Webdriver](https://github.com/elleshi/autotesting-java-basics-diploma)
-* <details> <summary>Тестовая документация</summary>
+* <details> 
+  <summary>Тестовая документация</summary>
   <br>
     <details>
       <summary>Примеры баг-репортов</summary>
@@ -110,12 +111,13 @@
   2. [Проверка требований на непротиворичивость и проверяемость](https://docs.google.com/document/d/1ncEVXuzXy4GpsTUW_HPdjMJJ9PEhMRvfwZ3fc_yuU5Q/edit?tab=t.0)
   3. [Тестирование верхнеуровневых требований на следующие свойства: непротиворичивость, выполняемость, недвусмысленность, проверяемость](https://docs.google.com/document/d/1v-_fIJwJ6RZhs9xCAytavZC9vtiClz3j_I35nAphJQI/edit?tab=t.0)                                                                                                      
 </details>
-<details>
-    <summary>Тест-кейсы</summary>
+      <details>
+       <summary>Тест-кейсы</summary>
        <br>
        Примеры приведены из домашних заданий на платформе Skillbox по правилам оформления данной платформы.
-       <br>                                                                                                   
-</details>    
+       <br>
+                                                                                                  
+</details> 
 </details>
 </details>
 

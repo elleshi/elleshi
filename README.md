@@ -23,16 +23,7 @@
 <details> 
   <summary>Тестовая документация</summary>
   <br>
-  <details>
-    <summary>Анализ требований</summary>
-       <br>
-       Примеры приведены из домашних заданий на платформе Skillbox по правилам оформления данной платформы.
-    
-  1. [Уточнение требований к спецификации](https://docs.google.com/document/d/1pTT3IRGWPJAEqRvdSnPcXf7GVn46uBKDlO2nzs-DbQs/edit?tab=t.0)
-  2. [Проверка требований на непротиворичивость и проверяемость](https://docs.google.com/document/d/1ncEVXuzXy4GpsTUW_HPdjMJJ9PEhMRvfwZ3fc_yuU5Q/edit?tab=t.0)
-  3. [Тестирование верхнеуровневых требований на следующие свойства: непротиворичивость, выполняемость, недвусмысленность, проверяемость](https://docs.google.com/document/d/1v-_fIJwJ6RZhs9xCAytavZC9vtiClz3j_I35nAphJQI/edit?tab=t.0)                                                                                                      
-</details>
-    <details>
+ <details>
       <summary>Примеры баг-репортов</summary>
        <br>
        Примеры приведены из домашних заданий на платформе Skillbox по правилам оформления данной платформы.
